@@ -1,0 +1,13 @@
+schema,ticker,rebalance_date,error
+OHLCV-1d,SWY,2014-11-10,0
+OHLCV-1d,HRL,2023-06-12,0
+OHLCV-1d,K,2024-10-28,0
+OHLCV-1d,SWY,2014-11-10,"400 auth_invalid_username_in_basic_auth
+Invalid username in Basic auth ('').
+documentation: https://databento.com/docs"
+OHLCV-1d,HRL,2023-06-12,"400 auth_invalid_username_in_basic_auth
+Invalid username in Basic auth ('').
+documentation: https://databento.com/docs"
+OHLCV-1d,K,2024-10-28,"400 auth_invalid_username_in_basic_auth
+Invalid username in Basic auth ('').
+documentation: https://databento.com/docs"
